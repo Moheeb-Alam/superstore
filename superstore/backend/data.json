@@ -1,0 +1,367 @@
+{
+ "categories": [
+  {
+   "id": "c1",
+   "name": "Grocery",
+   "emoji": "🛒"
+  },
+  {
+   "id": "c2",
+   "name": "Beverages",
+   "emoji": "🥤"
+  },
+  {
+   "id": "c3",
+   "name": "Snacks",
+   "emoji": "🍿"
+  },
+  {
+   "id": "c4",
+   "name": "Dairy",
+   "emoji": "🥛"
+  },
+  {
+   "id": "c5",
+   "name": "Bakery",
+   "emoji": "🥖"
+  },
+  {
+   "id": "c6",
+   "name": "Fruits & Vegetables",
+   "emoji": "🍎"
+  },
+  {
+   "id": "c7",
+   "name": "Personal Care",
+   "emoji": "🧴"
+  },
+  {
+   "id": "c8",
+   "name": "Household Items",
+   "emoji": "🧽"
+  },
+  {
+   "id": "c9",
+   "name": "Electronics",
+   "emoji": "🔌"
+  }
+ ],
+ "products": [
+  {
+   "id": "p1",
+   "name": "Basmati Rice 5kg",
+   "category": "Grocery",
+   "price": 1850,
+   "discount": 10,
+   "stock": 40,
+   "description": "Premium aged long-grain basmati rice.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p2",
+   "name": "Sunflower Cooking Oil 3L",
+   "category": "Grocery",
+   "price": 2100,
+   "discount": 5,
+   "stock": 25,
+   "description": "Light, heart-friendly cooking oil.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p3",
+   "name": "Tapal Danedar Tea 430g",
+   "category": "Grocery",
+   "price": 690,
+   "discount": 0,
+   "stock": 60,
+   "description": "Strong, rich black tea blend.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p4",
+   "name": "Coca Cola 1.5L",
+   "category": "Beverages",
+   "price": 220,
+   "discount": 0,
+   "stock": 120,
+   "description": "Chilled-ready classic cola.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p5",
+   "name": "Pepsi 1.5L",
+   "category": "Beverages",
+   "price": 210,
+   "discount": 5,
+   "stock": 0,
+   "description": "Refreshing cola drink.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p6",
+   "name": "Nestle Pure Life Water 1.5L",
+   "category": "Beverages",
+   "price": 90,
+   "discount": 0,
+   "stock": 200,
+   "description": "Purified drinking water.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p7",
+   "name": "Lays Classic Chips",
+   "category": "Snacks",
+   "price": 60,
+   "discount": 0,
+   "stock": 150,
+   "description": "Crispy salted potato chips.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p8",
+   "name": "Oreo Biscuits",
+   "category": "Snacks",
+   "price": 80,
+   "discount": 15,
+   "stock": 90,
+   "description": "Chocolate sandwich cookies.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p9",
+   "name": "Kurkure Masala",
+   "category": "Snacks",
+   "price": 50,
+   "discount": 0,
+   "stock": 8,
+   "description": "Spicy crunchy corn snack.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p10",
+   "name": "Nestle Milk Pack 1L",
+   "category": "Dairy",
+   "price": 290,
+   "discount": 0,
+   "stock": 80,
+   "description": "UHT full-cream milk.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p11",
+   "name": "Olpers Butter 200g",
+   "category": "Dairy",
+   "price": 480,
+   "discount": 10,
+   "stock": 30,
+   "description": "Creamy salted butter.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p12",
+   "name": "Nestle Yogurt 400g",
+   "category": "Dairy",
+   "price": 210,
+   "discount": 0,
+   "stock": 0,
+   "description": "Fresh set yogurt.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p13",
+   "name": "White Bread Large",
+   "category": "Bakery",
+   "price": 140,
+   "discount": 0,
+   "stock": 35,
+   "description": "Soft sliced sandwich bread.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p14",
+   "name": "Chocolate Cake Slice",
+   "category": "Bakery",
+   "price": 250,
+   "discount": 20,
+   "stock": 12,
+   "description": "Moist chocolate sponge cake.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p15",
+   "name": "Butter Croissant",
+   "category": "Bakery",
+   "price": 120,
+   "discount": 0,
+   "stock": 20,
+   "description": "Freshly baked flaky croissant.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p16",
+   "name": "Red Apples 1kg",
+   "category": "Fruits & Vegetables",
+   "price": 360,
+   "discount": 10,
+   "stock": 50,
+   "description": "Crisp, sweet Kashmiri apples.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p17",
+   "name": "Bananas 1 Dozen",
+   "category": "Fruits & Vegetables",
+   "price": 190,
+   "discount": 0,
+   "stock": 45,
+   "description": "Naturally ripened bananas.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p18",
+   "name": "Fresh Tomatoes 1kg",
+   "category": "Fruits & Vegetables",
+   "price": 120,
+   "discount": 0,
+   "stock": 70,
+   "description": "Farm-fresh tomatoes.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p19",
+   "name": "Sunsilk Shampoo 400ml",
+   "category": "Personal Care",
+   "price": 620,
+   "discount": 15,
+   "stock": 40,
+   "description": "Smooth & silky hair shampoo.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p20",
+   "name": "Head & Shoulders Shampoo 360ml",
+   "category": "Personal Care",
+   "price": 780,
+   "discount": 0,
+   "stock": 22,
+   "description": "Anti-dandruff shampoo.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p21",
+   "name": "Lifebuoy Soap 3-Pack",
+   "category": "Personal Care",
+   "price": 270,
+   "discount": 0,
+   "stock": 100,
+   "description": "Germ-protection soap.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p22",
+   "name": "Surf Excel Detergent 1kg",
+   "category": "Household Items",
+   "price": 560,
+   "discount": 10,
+   "stock": 55,
+   "description": "Tough stain removal powder.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p23",
+   "name": "Harpic Toilet Cleaner 500ml",
+   "category": "Household Items",
+   "price": 340,
+   "discount": 0,
+   "stock": 0,
+   "description": "Powerful toilet cleaner.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p24",
+   "name": "Dishwash Liquid 750ml",
+   "category": "Household Items",
+   "price": 310,
+   "discount": 5,
+   "stock": 48,
+   "description": "Grease-cutting dishwash liquid.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p25",
+   "name": "USB-C Fast Charger 20W",
+   "category": "Electronics",
+   "price": 1500,
+   "discount": 20,
+   "stock": 18,
+   "description": "Fast wall charger with cable.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p26",
+   "name": "Wireless Earbuds",
+   "category": "Electronics",
+   "price": 3500,
+   "discount": 25,
+   "stock": 10,
+   "description": "Bluetooth 5.3 earbuds.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  },
+  {
+   "id": "p27",
+   "name": "LED Bulb 12W (2-Pack)",
+   "category": "Electronics",
+   "price": 450,
+   "discount": 0,
+   "stock": 75,
+   "description": "Energy-saving LED bulbs.",
+   "details": "Brand-quality item. Check packaging for expiry/warranty details.",
+   "image": ""
+  }
+ ],
+ "users": [
+  {
+   "id": "umuowi4yol4fk",
+   "name": "Store Admin",
+   "email": "admin@freshmart.pk",
+   "password": "$2a$10$nBboPk18nGHSA8v2UlKvIuSAGF1yOtriTsWXdL5MLcXo3t1stVAia",
+   "role": "admin",
+   "phone": "",
+   "address": ""
+  }
+ ],
+ "orders": [],
+ "settings": {
+  "timings": "Daily 8:00 AM – 11:00 PM",
+  "delivery": "Delivery charge Rs. 150. Free delivery on orders above Rs. 3,000. Delivery within 2–4 hours.",
+  "payment": "Cash on Delivery, Credit/Debit Card and Easypaisa/JazzCash.",
+  "returns": "Unopened items can be returned within 7 days; perishable items must be reported within 24 hours of delivery.",
+  "contact": "Call 051-1234567 or email support@freshmart.pk"
+ }
+}
